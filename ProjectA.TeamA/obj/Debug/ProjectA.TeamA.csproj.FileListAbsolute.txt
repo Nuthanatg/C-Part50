@@ -1,0 +1,6 @@
+C:\Users\107018\source\repos\ProjectA.TeamA\ProjectA.TeamA\bin\Debug\ProjectA.TeamA.dll
+C:\Users\107018\source\repos\ProjectA.TeamA\ProjectA.TeamA\bin\Debug\ProjectA.TeamA.pdb
+C:\Users\107018\source\repos\ProjectA.TeamA\ProjectA.TeamA\obj\Debug\ProjectA.TeamA.csproj.AssemblyReference.cache
+C:\Users\107018\source\repos\ProjectA.TeamA\ProjectA.TeamA\obj\Debug\ProjectA.TeamA.csproj.CoreCompileInputs.cache
+C:\Users\107018\source\repos\ProjectA.TeamA\ProjectA.TeamA\obj\Debug\ProjectA.TeamA.dll
+C:\Users\107018\source\repos\ProjectA.TeamA\ProjectA.TeamA\obj\Debug\ProjectA.TeamA.pdb
